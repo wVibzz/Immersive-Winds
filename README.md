@@ -1,2 +1,1 @@
-# Immersive-Winds
-https://modrinth.com/mod/immersive-winds
+Immersive Winds Github for issue and suggestion tracking.
